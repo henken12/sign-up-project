@@ -1,0 +1,22 @@
+/* SignUp.css */
+
+/* Reduce the size of the container */
+.container {
+  max-width: 400px; /* Set maximum width of the form container */
+}
+
+/* Center the form vertically */
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+/* Reduce the margin around the title */
+.h3 {
+  font-size: 1.75rem; /* Reduce title size */
+  margin-bottom: 1.5rem;
+}
+
+/* Placeholder customization (optional) */
+::placeholder {
+  color: #6c757d; /* Placeholder text color */
+}
